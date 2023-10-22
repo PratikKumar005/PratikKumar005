@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratikKumar005
-- 👀 I’m interested in playing cricket
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
 
 <!---
